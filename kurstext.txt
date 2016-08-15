@@ -1,0 +1,7 @@
+Infolge des technologischen Forttschrittes, allen voran der enormen Verfügbarkeit von Informationen, hauptsächlich dank des Internets und der dadurch erfolgten globalen Vernetzung,
+ist der Zugang zu ehemals extrem kostpsieleige Verfahren strark erleichtert worden. Die additiven Fertigungsverfahren, dessen Quellen in den letzten 10 Jahren dank einer weltweit aktiven Gemeinschaft
+für jeden offen und kostenfrei zur Verfügung stehen, werden Auswirkungen auf die Gesellschaft haben. Die Distanz zwischen dem Bedürfniss und dem Produkt soll auf ein Minumum schrumpfen, in dem
+dessen Entwurf möglichst individuell gestaltet wird. Zu diesem Zweck werden im Kurs die Möglichkeiten und Grenzen der technischen Verfahren, der Umgang mit Softwarewerkzeugen zur Erstellung von Modellen,
+der Prozess des Entwurfes an sich, so wie die Verbindung der drei Gebiete in praktischer Anwendung behandelt. So wird der komplette Weg von der Idee zum Objekt skizziert, mit dem Ziel,
+dass die Kursteilnehmer danach in der Lage sind, selbständig Objekte mit Hilfe digitaler Fabrikation zu erstellen, und insbesondere auf die Wechselwirkung zwischen den technischen Möglichkeiten und 
+dem Entwurfsprozess eingehen können.
