@@ -1,0 +1,88 @@
+3D Printing
+
+Kapitel:
+-Die Verwendung von Slic3r
+	-wo herunterladen
+	-relevante Einstellungen
+
+-Einführung verschiedene Technicken
+	-3D Druck = additives Verfahren mit CNC
+	-Vertiefung FDM
+
+-Einführung Aufbau des Druckers
+	-Printerboard/Schaltung
+		-Endstops
+		-Motoren
+		-Thermistoren
+	-Achsen
+	-Extruder
+	-Druckplattform
+		-Kapton/Hairspary/Papertape
+	
+-Einführund in Dateiformate
+	-*.stl
+	-*.gcode
+
+-Einführung in Slic3r
+	-Dowload der Profile
+	-Wichtigste Einstellungen
+
+-Materialkunde
+	-ABS
+	-PLA
+	-HIPS
+
+-Troubleshooting
+	-Google
+	-bukobot.com
+	-RepRapWiki
+
+-Technologischer Ausblick
+	-Recycling
+	-3D Scanning
+	-Anpassung von DeviceDesign an die technischen Möglichkeiten
+-----------------------------------------------------------------------------------------------	
+-pragmatische Priorisierung
+
+-Sclicing selbständig machen; G-Code am zweiten Abend mitbringen
+
+-Linksammlung erstellen
+
+-Profile für Simons Drucker bereit machen
+
+-3x neu Extruder Heads montieren
+
+-Merkblätter erstellen
+	-Material – Temperaturen
+	-Übersicht der Drucker
+	-Benennungen
+
+-PowerPoint Präsentation erstellen
+
+-3D Scan-Anlage aufbauen
+
+-Slic3r auf allen Maschinen installieren
+
+-Unterricht mit Beamer machen
+
+-Flowchart "Vom *.stl zum Objekt"
+
+-----------------------------------------------------------------------------------------------
+
+Schritte zur Erreichung des Sollzustandes im 3D Workshop
+
+Raum:
+	-dritter Tisch aufstellen
+	-Computerschrott sortieren
+
+Bukobot:
+	-cable management
+	-dual extruder?
+
+3DG:
+	-dickere Kabel für Heizbett
+	-cable management
+
+Simons Drucker:
+	-neue Extruder montieren
+	-Display/Controll Units montieren
